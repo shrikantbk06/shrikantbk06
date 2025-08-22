@@ -22,8 +22,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IIShrikantII&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IIShrikantII&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrikantbk06&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrikantbk06&layout=compact&theme=radical)
 
 ---
 
