@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🎓 Master’s in Software Engineering (University of Sydney)   
 - 🌱 Exploring **AI, Cloud, and Full Stack Dev**
-- 🔭 Currently working on [Loopy - TikTok Clone](https://github.com/shrikantbk06/loopy-social-media)
+- 🔭 Currently working on [Self-Driving-Car](https://github.com/shrikantbk06/self-driving-car)
 - ⚡ Fun fact: I enjoy gaming and streaming on [YouTube](https://www.youtube.com/@IISlashBeastII)  
 
 ---
