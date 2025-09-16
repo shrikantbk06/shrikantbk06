@@ -17,7 +17,6 @@
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)
 
 ---
