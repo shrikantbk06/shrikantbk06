@@ -51,5 +51,5 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrikant-bipinkumar-65ba3b1a4/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=firefox&logoColor=white)](https://shrikantbk06.github.io/portfolio-website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrikant-bipinkumar-65ba3b1a4/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://shrikantbk06.github.io/portfolio-website/)
