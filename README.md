@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Master’s in Software Engineering (University of Sydney)   
+- 🎓 Master of Professional Engineering (Software) (University of Sydney)   
 - 🌱 Exploring **AI, Cloud, and Full Stack Dev**
 - 🔭 Currently working on [Loopy](https://github.com/shrikantbk06/loopy-social-media)
 - ⚡ Fun fact: I enjoy gaming and streaming on [YouTube](https://www.youtube.com/@IISlashBeastII)  
