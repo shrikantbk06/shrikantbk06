@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🎓 Master of Professional Engineering (Software) (University of Sydney)   
 - 🌱 Exploring **AI, Cloud, and Full Stack Dev**
-- 🔭 Currently working on [Loopy](https://github.com/shrikantbk06/loopy-social-media)
+- 🔭 Currently working on XD Platform
 - ⚡ Fun fact: I enjoy gaming and streaming on [YouTube](https://www.youtube.com/@IISlashBeastII)  
 
 ---
